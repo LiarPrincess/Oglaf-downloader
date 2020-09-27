@@ -10,3 +10,8 @@ Note that this will modify downloaded image by adding `title` and `alt` below it
 2. `./node_modules/.bin/tsc`
 3. `node ./dist/app.js  `
 4. Wait…
+
+# Example
+
+![Example image](1 - Fountain of Doubt.jpg)
+![Alamofire: Elegant Networking in Swift](https://raw.githubusercontent.com/LiarPrincess/Oglaf-downloader/main/1 - Fountain of Doubt.jpg)
