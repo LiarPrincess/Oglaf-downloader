@@ -1,0 +1,22 @@
+{
+  "name": "oglaf-scrapper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "dist/app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "canvas": "^2.4.0",
+    "cheerio": "^1.0.0-rc.2"
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22.11",
+    "tslint": "^5.13.1",
+    "typescript": "^3.3.3333"
+  }
+}
