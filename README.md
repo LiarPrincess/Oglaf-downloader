@@ -13,5 +13,4 @@ Note that this will modify downloaded image by adding `title` and `alt` below it
 
 # Example
 
-![Example image](1 - Fountain of Doubt.jpg)
-![Alamofire: Elegant Networking in Swift](https://raw.githubusercontent.com/LiarPrincess/Oglaf-downloader/main/1 - Fountain of Doubt.jpg)
+![Example image](https://raw.githubusercontent.com/LiarPrincess/Oglaf-downloader/main/1%20-%20Fountain%20of%20Doubt.jpg)
